@@ -1,0 +1,7 @@
+{
+  "opening": "This short workflow concept was built specifically for {company}. Prime24AI reviewed the public-facing recruiting process at {website} and focused on one repetitive handoff that may be worth simplifying.",
+  "problem": "The workflow we observed is: {observed_workflow}. The opportunity is not to replace the recruiter. It is to remove the repetitive preparation, routing, and follow-up around the recruiter.",
+  "solution": "The automation concept is: {automation_proposal}. Prime24AI can implement one bounded workflow end to end rather than asking your team to adopt a broad new software platform.",
+  "human_control": "Human approval remains at the decision points. Your recruiters keep control of candidate judgment, client communication, exceptions, and final actions while automation handles repeatable handoffs.",
+  "cta": "Prime24AI is offering a fixed-scope AI Automation Sprint for one thousand dollars. {cta}"
+}

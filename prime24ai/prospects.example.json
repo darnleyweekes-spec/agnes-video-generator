@@ -1,0 +1,52 @@
+[
+  {
+    "id": "acumen-executive-search",
+    "company": "Acumen Executive Search",
+    "website": "https://www.acumenexecutivesearch.com",
+    "contact_name": "",
+    "observed_workflow": "research and intake are turned into candidate briefs, fit criteria are compared, recruiters review the match, and interview scheduling and follow-up are coordinated manually",
+    "automation_proposal": "research and intake to structured candidate brief, fit-criteria comparison, recruiter approval, then interview scheduling and follow-up",
+    "cta": "Would a short walkthrough of what that workflow could look like for Acumen be useful?",
+    "source_note": "Prime24AI Wave 2 prospect research; public website verified"
+  },
+  {
+    "id": "it-motives",
+    "company": "I.T. Motives",
+    "website": "https://www.itmotives.com",
+    "contact_name": "",
+    "observed_workflow": "new candidate information moves through detailed selection, recruiter interviews, client context, and start-to-finish follow-up",
+    "automation_proposal": "candidate intake to structured skills and fit summary, recruiter approval, appropriate follow-up, scheduling, and candidate-record update",
+    "cta": "Would it be useful to map this against your current process in a fifteen-minute walkthrough?",
+    "source_note": "Prime24AI Wave 2 prospect research; public website verified"
+  },
+  {
+    "id": "sports-group-international",
+    "company": "Sports Group International",
+    "website": "https://www.sportsgroupsearch.com",
+    "contact_name": "",
+    "observed_workflow": "specialized executive searches require repeated candidate research, profile normalization, role and industry comparison, recruiter review, and personalized follow-up",
+    "automation_proposal": "search research to normalized candidate profile, role and industry fit brief, recruiter approval, then personalized outreach and follow-up tracking",
+    "cta": "Would a walkthrough using a typical search assignment be useful?",
+    "source_note": "Prime24AI Wave 2 prospect research; public website verified"
+  },
+  {
+    "id": "rainier-recruiting",
+    "company": "Rainier Recruiting",
+    "website": "https://www.rainierrecruiting.com",
+    "contact_name": "",
+    "observed_workflow": "resume submissions and job-board activity need to become usable candidate profiles, potential role matches, recruiter decisions, acknowledgements, and follow-up",
+    "automation_proposal": "resume submission to structured candidate profile, likely role and category matches, recruiter review, personalized acknowledgement, follow-up, and candidate-record update",
+    "cta": "Would a fifteen-minute walkthrough of that candidate-flow automation be useful?",
+    "source_note": "Prime24AI Wave 2 prospect research; public website verified"
+  },
+  {
+    "id": "dpi-staffing-portland",
+    "company": "DPI Staffing Portland",
+    "website": "https://dpistaffing.com",
+    "contact_name": "",
+    "observed_workflow": "applicant intake and inquiries move through resume review, role sorting, recruiter follow-up, scheduling, and record updates across temporary, temp-to-hire, and direct-hire work",
+    "automation_proposal": "applicant intake to resume summary and role tagging, recruiter review, personalized follow-up, scheduling, and CRM update",
+    "cta": "Would a fifteen-minute walkthrough of that workflow be useful?",
+    "source_note": "Prime24AI Wave 2 prospect research; public website verified"
+  }
+]
